@@ -1,0 +1,42 @@
+.title {
+  font-size: 4rem;
+  font-family: "Playfair Display", serif;
+  cursor: pointer;
+}
+
+.menu_item {
+  font-family: "Lobster Two", cursive;
+  font-size: 25px;
+}
+.search_item {
+  font-family: "Lobster Two", cursive;
+  font-size: 20px;
+}
+.search_item:hover {
+  color: white;
+}
+
+#body-section {
+  background-image: url("https://i.postimg.cc/Y2NJt2Sy/blog2.jpg");
+  /* background-image: url('https://i.postimg.cc/9MZsRCY0/blog3.jpg'); */
+  /* background-image: url('https://i.postimg.cc/y8NqQqsp/blog4.jpg'); */
+  /* background-image: url('https://i.postimg.cc/tT6G3hpX/blog5.jpg'); */
+  /* background-image: url('https://i.postimg.cc/HkSmdY6C/blog6.webp'); */
+
+  /* background-image: url("https://i.postimg.cc/kGx9mWpj/blog8.jpg"); */
+  /* background-image: url('https://i.postimg.cc/W4HWcVfN/content-writing-1.gif'); */
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 100px;
+}
+p {
+  text-align: justify;
+  font-family: "Dancing Script", cursive;
+  font-size: 2rem;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+}
+.category_section {
+  padding-bottom: 20px;
+}

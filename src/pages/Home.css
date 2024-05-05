@@ -1,0 +1,16 @@
+.blog_content {
+  text-align: justify;
+  /* font-family: 'Cormorant Garamond', serif; */
+  font-family: "Croissant One", serif;
+  /* font-family: 'DM Serif Display', serif; */
+  /* font-family: 'Playfair Display', serif; */
+  /* font-family: 'Young Serif', serif; */
+  font-size: 17px;
+}
+.home_section {
+  padding-bottom: 50px;
+}
+.image_section {
+  border: 2px solid green;
+  border-radius: 30px;
+}
